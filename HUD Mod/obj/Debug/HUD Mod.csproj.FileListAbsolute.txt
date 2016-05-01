@@ -1,0 +1,16 @@
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\HUD Mod.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\HUD Mod.pdb
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\Assembly-UnityScript.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\SpaarModLoader.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\UnityEngine.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\Boo.Lang.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\UnityScript.Lang.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\UnityEngine.UI.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\DynamicText.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\UnityEngine.xml
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\obj\Debug\HUD Mod.csprojResolveAssemblyReference.cache
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\obj\Debug\HUD Mod.dll
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\obj\Debug\HUD Mod.pdb
+C:\Users\wang_\OneDrive\VS Projects-Besiege Mods\HUD Mod\HUD Mod\bin\Debug\Assembly-CSharp.dll
